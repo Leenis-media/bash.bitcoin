@@ -1,7 +1,7 @@
 clear
 sshd
 termux-wake-lock
-echo "  ~~  Manh Mobile 0898707968   ~~ ";
+echo "  ~~  LeeNiS Media 0358988065  ~~ ";
 sleep 3
 
 echo "( ~~tool auto start mining ~~ )";
